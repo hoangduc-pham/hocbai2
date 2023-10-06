@@ -14,3 +14,5 @@ void main() {
   // In ra tổng của các số chẵn
   print('Tổng các số chẵn từ 1 đến 10 là: $total');
 }
+// Output
+// Tổng các số chẵn từ 1 đến 10 là: 30
